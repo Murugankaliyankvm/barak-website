@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bara-website/static/css/main.b2aa5b2c.css",
+    "main.js": "/bara-website/static/js/main.2c2eefff.js",
+    "static/media/back.webp": "/bara-website/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/bara-website/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/bara-website/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/bara-website/index.html",
+    "main.b2aa5b2c.css.map": "/bara-website/static/css/main.b2aa5b2c.css.map",
+    "main.2c2eefff.js.map": "/bara-website/static/js/main.2c2eefff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2aa5b2c.css",
+    "static/js/main.2c2eefff.js"
+  ]
+}
