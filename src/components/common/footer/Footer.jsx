@@ -20,8 +20,8 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>Barak</h1>
-            <span>Digital Services</span>
+            <h1>ACADEMIA</h1>
+            <span>ONLINE EDUCATION & LEARNING</span>
             <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 
             <i className='fab fa-facebook-f icon'></i>
@@ -32,7 +32,8 @@ const Footer = () => {
             <h3>Explore</h3>
             <ul>
               <li>About Us</li>
-              <li>Services</li>           
+              <li>Services</li>
+              <li>Courses</li>
               <li>Blog</li>
               <li>Contact us</li>
             </ul>
@@ -89,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2023 All rights reserved | <i className='fa fa-heart'></i> Barak Technologies.
+          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
         </p>
       </div>
     </>
